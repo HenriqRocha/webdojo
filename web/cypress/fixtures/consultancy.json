@@ -1,0 +1,44 @@
+{
+  "personal": {
+    "name": "Fernando Papito",
+    "email": "papito@webdojo.com",
+    "phone": "(11)99999-1000",
+    "consultancyType": "Individual",
+    "personType": "cpf",
+    "document": "34679594071",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn",
+      "Udemy",
+      "YouTube",
+      "Indicação de Amigo"
+    ],
+    "file": "cypress/fixtures/documentTest.pdf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "techs": [
+      "Cypress",
+      "Java",
+      "AWS",
+      "MongoDB"
+    ],
+    "terms": true
+  },
+  "company": {
+    "name": "Fernando Papito",
+    "email": "papito@webdojo.com",
+    "phone": "(11)99999-1000",
+    "consultancyType": "In Company",
+    "personType": "cnpj",
+    "document": "73742625000100",
+    "discoveryChannels": [
+      "Instagram",
+      "LinkedIn"
+    ],
+    "file": "cypress/fixtures/documentTest.pdf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "techs": [
+      "Cypress"
+    ],
+    "terms": true
+  }
+}
